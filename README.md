@@ -19,12 +19,15 @@ To install and run ClinRay you will the followin depencies installed:
 
 ## 4. INSTALLATION ON LINUX OR MAC
 
-git clone https://github.com/rohandavidg/ClinRay.git
+Installation can done by following the steps below
 
+```
+git clone https://github.com/rohandavidg/ClinRay.git
 conda create --name ClinRay python=3.6.3
 conda activate ClinRay
 conda install pip
 pip install -r requirements.txt
+```
 
 ## 5. RUNNING CLINRAY
 
