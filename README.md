@@ -23,7 +23,7 @@ Installation can done by following the steps below
 
 ```
 git clone https://github.com/rohandavidg/ClinRay.git
-conda create --name ClinRay python=3.6.3
+conda create --name ClinRay python=3.8
 conda activate ClinRay
 conda install pip
 cd ClinRay
