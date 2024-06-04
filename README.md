@@ -13,7 +13,7 @@ Clinray is a bioinformatics method developed here predicts the ability of a prob
 
 To install and run ClinRay you will the followin depencies installed:
 
-* Python==3.6.3
+* Python==3.8
 * GCC and GNU make
 * conda or virtualenv
 
