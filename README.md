@@ -26,6 +26,7 @@ git clone https://github.com/rohandavidg/ClinRay.git
 conda create --name ClinRay python=3.6.3
 conda activate ClinRay
 conda install pip
+cd ClinRay
 pip install -r requirements.txt
 ```
 
